@@ -1,5 +1,5 @@
 # MH3U-WiiU-Patches
-**(mostly) Obsolete, see [MH3U WiiU Patcher](https://github.com/chantox1/MH3U-WiiU-Patches).**
+**(mostly) Obsolete, see [MH3U WiiU Patcher](https://github.com/chantox1/MH3U-WiiU-Patcher).**
 
 For EU game version.
 
